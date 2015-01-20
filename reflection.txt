@@ -1,0 +1,4 @@
+1. Why have you not build tests before?
+2. Why do the best programmers use tests?
+3. What is test driven development?
+4. Have you ever written a program without bugs? On average how many bugs do your programs have?
